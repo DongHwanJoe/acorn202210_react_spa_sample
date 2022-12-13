@@ -36,6 +36,8 @@ function App({location, match, history}) {
   );
 }
 
+//github push test
+
 //withRouther() 함수를 호출해서 export 해주면 Router에 관련된
 //props가 이 컴포넌트에 전달된다.
 export default withRouter(App);
